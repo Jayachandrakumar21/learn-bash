@@ -1,1 +1,1 @@
-# learn-bash hello there
+# learn-bash
