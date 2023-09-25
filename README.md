@@ -7,4 +7,4 @@
     3.loops-
          for
         while
-    4.functions
+    4.function
