@@ -4,7 +4,7 @@
     1.variables
         Env
     2.conditions
-    3.loops-
+    3.loops
          for
         while
-    4.function
+    4.functions
