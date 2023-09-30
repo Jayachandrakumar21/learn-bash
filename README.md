@@ -1,10 +1,10 @@
 # learn-bash
 # In this repo we will learn bash scripting
 # Topics in bash scripting
-    1.variables
+    1.Variables
         Env
-    2.conditions
-    3.loops
+    2.Conditions
+    3.Loops
          for
         while
-    4.functions
+    4.Functions
