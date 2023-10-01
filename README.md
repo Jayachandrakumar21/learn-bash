@@ -4,7 +4,10 @@
     1.Variables
         Env
     2.Conditions
+        if
+        else if
     3.Loops
          for
+         do
         while
     4.Functions
