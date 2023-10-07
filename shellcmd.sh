@@ -1,3 +1,4 @@
 #!/bin/bash
-uname -a
-lsblk
+#uname -a
+#lsblk
+cat /etc/os-release
