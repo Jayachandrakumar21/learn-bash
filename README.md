@@ -8,4 +8,6 @@
 6.Loops
 7.Exit Status & Redirectors & Quotes
 8.SED Editor
-9.Vim
+9.Vim Editor
+10. Quotes
+11. Redirectors
