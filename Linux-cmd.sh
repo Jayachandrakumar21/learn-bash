@@ -1,1 +1,11 @@
-few important linux commands 
+few important Linux commands 
+ls
+pwd
+uname
+mkdir
+touch
+cp
+cd
+mv
+rm
+
