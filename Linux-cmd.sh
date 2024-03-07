@@ -8,4 +8,4 @@ cp
 cd
 mv
 rm
-
+echo
