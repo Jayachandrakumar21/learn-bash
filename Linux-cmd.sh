@@ -9,3 +9,6 @@ cd
 mv
 rm
 echo
+vim
+sed
+
