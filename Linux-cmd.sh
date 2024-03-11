@@ -11,4 +11,4 @@ rm
 echo
 vim
 sed
-
+chmod
