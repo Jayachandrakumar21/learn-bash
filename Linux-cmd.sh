@@ -12,3 +12,4 @@ echo
 vim
 sed
 chmod
+vi
