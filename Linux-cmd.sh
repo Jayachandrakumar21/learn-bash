@@ -13,3 +13,4 @@ vim
 sed
 chmod
 vi
+su
