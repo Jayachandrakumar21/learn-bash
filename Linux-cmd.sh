@@ -16,4 +16,4 @@ vi -> file editor
 su -> switch user
 grep
 awk
-|
+| Pipe
