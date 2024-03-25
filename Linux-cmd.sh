@@ -1,4 +1,4 @@
-few important Linux commands 
+ important Linux commands 
 ls -> list the content in the directory
 pwd -> present working directory
 uname -> os name
