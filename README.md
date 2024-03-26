@@ -1,5 +1,5 @@
 # In this repo we will learn bash scripting
-# Topics in bash scripting
+Topics in bash scripting
 1.Comments
 2.Print
 3.Variables
