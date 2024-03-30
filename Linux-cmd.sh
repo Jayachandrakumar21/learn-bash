@@ -15,5 +15,3 @@ chmod -> changing file permission
 vi -> file editor
 su -> switch user
 grep
-awk
-| Pipe
