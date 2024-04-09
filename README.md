@@ -6,8 +6,10 @@ Topics in bash scripting
 4. Functions
 5. Conditions
 6. Loops
-7. Exit Status & Redirectors & Quotes
-8. SED Editor
-9. Vim Editor
-10. Quotes
-11. Redirector
+7. Exit Status
+8.  Redirectors
+9.  Quotes
+10. SED Editor
+11. Vim Editor
+12. Quotes
+13. Redirector
