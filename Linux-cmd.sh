@@ -1,4 +1,5 @@
- important Linux commands 
+ important Linux commands
+ ==========================
 ls -> list the content in the directory
 pwd -> present working directory
 uname -> os name
@@ -17,15 +18,15 @@ vi -> file editor
 su -> switch user
 grep -> row filter
 awk -> column filter
-useradd
-passwd 
-userdel
-chmod
-chown
+useradd --> adding new user
+passwd  --> assigning password to user
+userdel --> user delete
+chmod  -> modifying file permissions
+chown -> changing file owner
 top
 free
-netstat
-ps
+netstat --> network status of ports and protocol type
+ps --> process 
 ifconfig
 id
 
