@@ -1,3 +1,5 @@
 #!/bin/bash
-name=jayachandra
-echo "my name is ${name}"
+#name=jayachandra
+echo "Enter your name"
+read name
+echo "welcome to the Devops world ${name}"
