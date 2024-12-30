@@ -15,7 +15,7 @@ UserID=$(id -u)
 # check user is root or not
 
 if [ $UserID -ne 0 ]; then
-    echo "You n eed to be root user to execute this script "
+    echo "You need to be root user to execute this script "
     exit 1
 fi
 
