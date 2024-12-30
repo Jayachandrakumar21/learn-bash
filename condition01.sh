@@ -5,8 +5,8 @@
 
 #lss -ltr # it will fail and will not excute further
 #if [ $? -ne 0 ]; then
-    echo "previous command is failure"
-    exit 1
+#    echo "previous command is failure"
+#   exit 1
 #fi
 
 ls -ltr
