@@ -7,4 +7,4 @@ echo "Please Enter your Name"
 echo
 read name 
 echo 
-echo "${name}, Welcome to the Devops world!"
+echo "$name, Welcome to the Devops world!"
