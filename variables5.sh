@@ -4,7 +4,7 @@
 #Sub-topic: accepting input at run-time and hiding the inpiting character like password
 
 echo "Enter your Username"
-read -s username 
+read username 
 
 echo "Enter your Password"
 read -s password 
