@@ -1,5 +1,5 @@
 #!/bin/bash
-var1=Rmesh
+var1=Ramesh
 var2=Suresh
 echo "$var1 : How are you $var2"
 echo "$var2 : I'm fine! thank you $var1"
