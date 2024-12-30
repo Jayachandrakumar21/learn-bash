@@ -8,8 +8,6 @@ Topics in Bash scripting
 6. Loops
 7. Exit Status
 8. Redirectors
-9.  Quotes
-10. SED Editor
-11. Vim Editor
-12. Quotes
-13. Redirector
+9. Quotes
+10.SED Editor
+11.Vim Editor
