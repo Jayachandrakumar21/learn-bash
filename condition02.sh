@@ -14,14 +14,14 @@ UserID=$(id -u)
 
 # check user is root or not
 
-if [$UserID -ne 0]; then
+if [ $UserID -ne 0 ]; then
     echo "You n eed to be root user to execute this script "
     exit 1
 fi
 
 yum install git -y
 
-if [$? -ne 0]; then
+if [ $? -ne 0 ]; then
     echo "Installing Git is failure"
     exit 1
 else
