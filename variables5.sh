@@ -5,9 +5,9 @@
 
 echo "Enter your Username"
 read username 
-
+echo        # used for newline
 echo "Enter your Password"
 read -s password 
-
+echo 
 echo "Username: ${username}"
 echo "Password: ${password}"
