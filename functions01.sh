@@ -11,7 +11,7 @@
 
 # Hello
 
-
+# you should pass the parameter at run-tim min 2
 Hello(){
     echo "Hello!!! $1 "
     echo "Script Name : $0 "
@@ -21,6 +21,6 @@ Hello(){
 
 echo "Before calling function, checking name: $1"
 echo "Number of args: $# "
-echo "All args are: $@ 
+echo "All args are: $@ "
 
 Hello $1
