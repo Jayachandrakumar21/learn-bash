@@ -1,7 +1,7 @@
 #!/bin/bash
 #Created by : Jayachandra_kumar Date:30-12-2024
 #Topic: Conditions
-#Sub-topic: IF and IF else with Exit-status.
+#Sub-topic: IF  with Exit status.
 
 # lss -ltr # it will fail and will not excute further
 # if [ $? -ne 0 ]; then
