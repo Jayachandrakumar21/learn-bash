@@ -11,3 +11,4 @@ Topics in Bash scripting
 9. Quotes
 10.SED Editor
 11.Vim Editor
+12.Special variables
