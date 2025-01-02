@@ -26,7 +26,7 @@ validation(){
 
 if [ $USERID -ne 0 ]
 then
-    echo "Error::You should have sudo permission to exicute script"
+    echo "$R Error::You should have sudo permission to exicute script $N"
     exit 1 #other then 0 will exit the script
 fi
 
