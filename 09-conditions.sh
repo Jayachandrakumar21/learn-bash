@@ -11,7 +11,7 @@ NUMBER=$1
 # -ge --> grater then equals to
 # -le --> less then equals to
 
-if [ $NUMBER -gt 100]
+if [ $NUMBER -gt 100 ]
 then
     echo "Given number is greater then 100"
 else
