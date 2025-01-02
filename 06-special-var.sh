@@ -3,7 +3,7 @@
 #Topic: Variables
 #Sub-topic:Special-variables
 
-echo "printind $1 $2 $3 $4"
+echo "printing $1 $2 $3 $4"
 echo " All variables passed: $@"
 echo "Number of variables: $#"
 echo "Script name: $0"
