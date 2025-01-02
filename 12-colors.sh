@@ -17,16 +17,16 @@ N="\e[0m" #Default color
 validation(){
      if [ $1 -ne 0 ]
     then
-        echo "Installing $2 ...$R Failure $N"
+        echo -e "Installing $2 ...$R Failure $N"
         exit 1
     else
-        echo "Installing $2... $G Success $N"
+        echo -e "Installing $2... $G Success $N"
     fi
 }
 
 if [ $USERID -ne 0 ]
 then
-    echo "$R Error::You should have sudo permission to exicute script $N"
+    echo -e "$R Error::You should have sudo permission to exicute script $N"
     exit 1 #other then 0 will exit the script
 fi
 
@@ -38,7 +38,7 @@ then
     validation $? "mysql"
    
  else
-    echo " Mysql already $Y installed.$N"
+    echo -e " Mysql already $Y installed.$N"
 fi
 
 dnf list installed git
@@ -47,5 +47,5 @@ then
     dnf install git -y
     validation $? "Git"
  else
-    echo " Git already $Y installed. $N"
+    echo -e " Git already $Y installed. $N"
 fi
