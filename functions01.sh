@@ -1,7 +1,7 @@
 #!/bin/bash
-#Created by : Jayachandra_kumar Date:30-12-2024
-#Topic: Funtions
-#Sub-topic/Scenario:
+#Created by: Jayachandra_kumar Date:30-12-2024
+#Topic: Functions
+#Sub-topic/Scenario: Basic  function syntax 
 
 # Hello(){
 #     echo "Hello!!!! "
