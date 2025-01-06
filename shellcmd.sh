@@ -1,6 +1,6 @@
 #!/bin/bash
 #created by Jayachandra_kumar 28-12-24
-#linux commands
+# Topic: Linux commands
 ls  #list content
 ls -l #long list with details content
 ls -a #list all files and hidden files
