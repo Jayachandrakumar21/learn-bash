@@ -1,7 +1,7 @@
 #!/bin/bash
 #Created by : Jayachandra_kumar Date:02-01-2025
 #Topic: Conditions
-#Sub-topic/Scenario: finding given number is grater or less then quals to 100
+#Sub-topic/Scenario: finding given number is greater or less than quals to 100
 
 # NUMBER=$1
 # -gt --> grater then
