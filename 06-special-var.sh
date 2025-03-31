@@ -1,7 +1,7 @@
 #!/bin/bash
-#Created by: Jayachandra_kumar Date:30-12-2024
+#Created by: Jayachandra-kumar Date:30-12-2024
 #Topic: Variables
-#Sub-topic: Special_variables
+#Sub-topic: Special-variables
 
 echo "printing $1 $2 $3 $4"
 echo " All variables passed: $@"
