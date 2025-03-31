@@ -2,6 +2,8 @@
 #Created by: Jayachandra-kumar Date:30-12-2024
 #Topic: Variables
 #Sub-topic: Special-variables
+#Note: you have to pass arg values at the time executing the 06-special-var.sh
+# Example --> sh 06-special-var.sh one two three four five
 
 echo "printing $1 $2 $3 $4"
 echo " All variables passed: $@"
