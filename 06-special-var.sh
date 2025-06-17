@@ -1,6 +1,6 @@
 #!/bin/bash
 #Created by: Jayachandra_kumar Date:30-12-2024
-#Topic: Variables
+#Topic: variables
 #Sub-topic: Special_variables
 
 echo "printing $1 $2 $3 $4"
