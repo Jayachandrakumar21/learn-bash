@@ -1,5 +1,6 @@
 #!/bin/bash
 #Assigning static variables values
+# created by : Jayachandra_kumar
 var1=Ramesh
 var2=Suresh
 echo "$var1 : How are you $var2"
