@@ -1,6 +1,7 @@
 # Created by : Jayachandra_kumar
  important Linux commands
  ==========================
+# Note: Use case example with syntax would give more understanding on the commands. 
 ls -> list the content in the directory
 pwd -> present working directory
 uname -> os name
@@ -13,7 +14,7 @@ rm -> remove/Delete files/directories
 echo -> print
 cat -> to display file content on the terminal
 vim -> vi improved file Editor
-sed 
+sed  -> Sed helps in operations like selecting the text, substituting text, modifying an original file, adding lines to text, or deleting lines from the text.
 chmod -> changing file permission
 vi -> file editor
 su -> switch user
