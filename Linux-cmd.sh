@@ -3,17 +3,17 @@
  ==========================
 # Note: Use case example with syntax would give more understanding on the commands. 
 ls -> list the content in the directory
-ls -l
-ls -a
-ls -A
-ls -lh
-ls -ltr
+    ls -l
+    ls -a
+    ls -A
+    ls -lh
+    ls -ltr
 pwd -> present working directory
 uname -> os name
 mkdir -> make new directory
-mkdir <path> # if no path mentioned, it will cosider pwd and create dir.
+    mkdir <path> # if no path mentioned, it will cosider pwd and create dir.
 touch -> create new file 
-
+    touch <file_name>
 cp -> copy files/directory
 cd -> change directory
 mv -> move files/directory
