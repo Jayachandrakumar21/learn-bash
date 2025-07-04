@@ -3,6 +3,11 @@
  ==========================
 # Note: Use case example with syntax would give more understanding on the commands. 
 ls -> list the content in the directory
+ls -l
+ls -a
+ls -A
+ls -lh
+ls -ltr
 pwd -> present working directory
 uname -> os name
 mkdir -> make new directory
