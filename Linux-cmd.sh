@@ -15,7 +15,9 @@ mkdir -> make new directory
 touch -> create new file 
     touch <file_name>
 cp -> copy files/directory
+    cp <source> <destination>
 cd -> change directory
+    
 mv -> move files/directory
 rm -> remove/Delete files/directories
 echo -> print
