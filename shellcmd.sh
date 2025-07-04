@@ -26,3 +26,7 @@ Liux commands categories
 7. Process management
 
 command, syntax, discription, use_case example.
+
+grep
+awk
+sed
