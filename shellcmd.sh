@@ -14,3 +14,12 @@ ls -ltrh
 #cat /etc/os-release
 #cat /proc/meminfo
 #cat /proc/cpuinfo
+
+Liux commands categories
+1. Basic commands
+2. File management
+3. User management
+4. Package management
+5. Service management
+6. Network management
+7. Process management
