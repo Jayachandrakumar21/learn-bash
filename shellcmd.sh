@@ -16,6 +16,7 @@ ls -ltrh
 #cat /proc/cpuinfo
 
 Liux commands categories
+
 1. Basic commands
 2. File management
 3. User management
@@ -23,3 +24,5 @@ Liux commands categories
 5. Service management
 6. Network management
 7. Process management
+
+command, syntax, discription, use_case example.
