@@ -11,7 +11,9 @@ ls -ltr
 pwd -> present working directory
 uname -> os name
 mkdir -> make new directory
+mkdir <path> # if no path mentioned, it will cosider pwd and create dir.
 touch -> create new file 
+
 cp -> copy files/directory
 cd -> change directory
 mv -> move files/directory
