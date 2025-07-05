@@ -1,7 +1,7 @@
-# Created by : Jayachandra_kumar
+# Created by: Jayachandra_kumar
  important Linux commands
  ==========================
-# Note: Use case example with syntax would give more understanding on the commands. 
+# Note: Use case examples with syntax would give more understanding of the commands. 
 ls -> list the content in the directory
     ls -l
     ls -a
@@ -11,7 +11,7 @@ ls -> list the content in the directory
 pwd -> present working directory
 uname -> os name
 mkdir -> make new directory
-    mkdir <path> # if no path mentioned, it will cosider pwd and create dir.
+    mkdir <path> # if no path is mentioned, it will consider pwd and create dir.
 touch -> create new file 
     touch <file_name>
 cp -> copy files/directory
