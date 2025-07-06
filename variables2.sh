@@ -1,5 +1,5 @@
 #!/bin/bash
-#Apassing Arguments at run-time
+#passing Arguments at run-time
 # created by: Jayachandra_kumar Date:30-12-2024
 var1=$1
 var2=$2
