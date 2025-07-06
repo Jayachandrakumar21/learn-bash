@@ -3,8 +3,8 @@
 # Topic: Variables 
 # Sub-topic: passing variables values at run-time.
 
-echo "Please Enter your Name"
+echo "Please Enter your name"
 echo
 read name 
 echo 
-echo "$name, Welcome to the Devops world!"
+echo "$name, Welcome to the DevOps world!"
