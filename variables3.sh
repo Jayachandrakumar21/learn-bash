@@ -1,5 +1,5 @@
 #!/bin/bash
-# created by: Jayachandra_kumar Date:30-12-2024
+# Created by: jayachandra_kumar Date:30-12-2024
 # Topic: Variables 
 # Sub-topic: passing variables values at run-time.
 
