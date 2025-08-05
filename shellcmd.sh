@@ -5,7 +5,7 @@ ls  #list content
 ls -l #long list with details content
 ls -a #list all files and hidden files
 ls -A #list all files and hidden files
-ls -lh
+ls -lh #long list with human readable format
 ls -lt
 ls -ltr
 ls -ltrh
