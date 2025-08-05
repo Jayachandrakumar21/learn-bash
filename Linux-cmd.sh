@@ -40,5 +40,5 @@ netstat --> network status of ports and protocol type
 ps --> process 
 ifconfig
 id
-
+curl ifconfig.me --> shows Public ip
 
