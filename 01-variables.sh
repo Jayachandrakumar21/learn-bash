@@ -1,6 +1,6 @@
 #!/bin/bash
 #Assigning static variables values
-#Created by : jayachandra_kumar
+#Created by : Jayachandra_kumar
 
 var1=Ramesh
 var2=Suresh
