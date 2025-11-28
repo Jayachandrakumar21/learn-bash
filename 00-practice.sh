@@ -23,3 +23,12 @@
 # Date=$(date)
 # echo " Your shell script started executing at :${Date} "
 
+# Accepting input at run-time and hiding the inputing character like password
+echo "Enter your Username"
+read username
+echo
+echo "Ennter your Password"
+read -s password
+echo 
+echo "Username: ${username}"
+echo "Password: ${password}"
