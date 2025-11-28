@@ -2,6 +2,8 @@
 # Topic : Bash practice
 #!/bin/bash
 
-echo " $1 : How are you $2 "
+echo " Enter your Name "
 echo
-echo " $2 : I am fine thank you $1 "
+read name
+echo
+echo " $name, Hi welcome to the DevOps World "
