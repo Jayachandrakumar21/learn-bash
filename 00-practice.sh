@@ -2,8 +2,8 @@
 # Topic : Bash practice
 #!/bin/bash
 
-var1 ='Ramesh'
-var2 ='suresh'
+var1 =Ramesh
+var2=suresh
 
 echo " $var1 : How are you $var2 "
 echo
