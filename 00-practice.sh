@@ -2,9 +2,6 @@
 # Topic : Bash practice
 #!/bin/bash
 
-var1=$1
-var2=$2
-
-echo " $var1 : How are you $var2 "
+echo " $1 : How are you $2 "
 echo
-echo " $var2 : I am fine thank you $var1 "
+echo " $2 : I am fine thank you $1 "
