@@ -14,3 +14,5 @@ echo "Process id of the current script: $$ "
 sleep 60 & # here & option makes the process run in the background
 echo "Process ID of the last command in the background: $!"
 echo "Exit status of the previous executed command: $?"
+echo " nth argument passed: $n"
+echo " $*"  
